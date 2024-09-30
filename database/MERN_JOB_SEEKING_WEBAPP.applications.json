@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66fa20d37da73ab41ffdfa72"
+  },
+  "name": "Gaurav patel",
+  "email": "gaurav@gmail.com",
+  "coverLetter": "I am interested to this job.",
+  "phone": 7894561229,
+  "address": "Ahmedabad",
+  "resume": {
+    "public_id": "podaok5fh6b1yl8elz9j",
+    "url": "https://res.cloudinary.com/dtbip1vqu/image/upload/v1727668435/podaok5fh6b1yl8elz9j.jpg"
+  },
+  "applicantID": {
+    "user": {
+      "$oid": "66fa1ea37da73ab41ffdfa3d"
+    },
+    "role": "Job Seeker"
+  },
+  "employerID": {
+    "user": {
+      "$oid": "66fa1f037da73ab41ffdfa4a"
+    },
+    "role": "Employer"
+  },
+  "__v": 0
+}]

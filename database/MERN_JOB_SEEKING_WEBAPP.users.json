@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66f7910288ce71a0d7966b84"
+  },
+  "name": "patel deepak",
+  "email": "patel@gmail.com",
+  "phone": 7894561237,
+  "password": "$2b$10$nsJaYgpYwQEQR7xyVJPLlu9Y5Hz1e8KhOrxUd4I3fqBipN07Zfb3C",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-09-28T05:15:46.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fa1ea37da73ab41ffdfa3d"
+  },
+  "name": "Gaurav",
+  "email": "gaurav@gmail.com",
+  "phone": 7845963214,
+  "password": "$2b$10$45bYuvPyBOQekz82ry/YlOLxHMovXbiN4q2bw3V7hBFfEdHZD8PDi",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-09-30T03:44:35.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fa1f037da73ab41ffdfa4a"
+  },
+  "name": "Amit",
+  "email": "amit@gmail.com",
+  "phone": 8974561230,
+  "password": "$2b$10$Q0mvCqG4EhlArkC9Wootw.JxxRhCaDTSNrXC363sb/KCiGI9iDB6S",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-09-30T03:46:11.455Z"
+  },
+  "__v": 0
+}]

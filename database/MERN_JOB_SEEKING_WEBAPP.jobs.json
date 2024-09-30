@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66fa1fc27da73ab41ffdfa56"
+  },
+  "title": "Software",
+  "description": "Using markup languages like HTML to create user-friendly web pages\nMaintaining and improving website\nOptimizing applications for maximum speed\n\nWe are looking for a qualified Front-end developer to join our IT team. You will be responsible for building the ‘client-side’ of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.\n\n",
+  "category": "Frontend Web Development",
+  "country": "India",
+  "city": "Gandhinagar",
+  "location": "Sector 22 near Kailash Nagar , Gandhinagar , Gujarat",
+  "fixedSalary": 15000,
+  "expired": false,
+  "postedBy": {
+    "$oid": "66fa1f037da73ab41ffdfa4a"
+  },
+  "jobPostedOn": {
+    "$date": "2024-09-30T03:49:22.184Z"
+  },
+  "__v": 0
+}]
