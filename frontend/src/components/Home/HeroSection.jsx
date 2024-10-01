@@ -29,7 +29,7 @@ const HeroSection = () => {
   ];
   return (
     <>
-      <div className="heroSection">
+      <div className="heroSection" id="heroSection">
         <div className="container">
           <div className="title">
             <h1>Find a job that suits</h1>

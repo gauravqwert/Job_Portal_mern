@@ -262,6 +262,9 @@ p {
   flex-direction: column;
   padding: 75px 0 50px 0;
 }
+#heroSection{
+  background-color: #75f6eb85;
+}
 .heroSection .container,
 .heroSection .details {
   min-width: 1500px;
